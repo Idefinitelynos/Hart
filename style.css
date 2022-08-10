@@ -1,0 +1,9 @@
+canvas{
+    animation-name: food;
+    animation-duration: 2s;
+    animation-iteration-count: infinite; 
+}
+@keyframes food{
+    from{box-shadow: 3px 4px 25px #72c47d;}
+    to{box-shadow: 3px 4px 25px #d626ed;}
+}
